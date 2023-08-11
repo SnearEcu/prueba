@@ -29,7 +29,9 @@ dependencies:
   cached_network_image: 3.2.1
   flutter_animate: 4.1.1+1
   flutter_cache_manager: 3.3.0
-  flutter_html_to_pdf: ^0.7.0
+    flutter_html_to_pdf:
+    git:
+      url: https://github.com/SnearEcu/flutter_html_to_pdf.git
   font_awesome_flutter: 10.1.0
   from_css_color: 2.0.0
   go_router: 7.1.1
